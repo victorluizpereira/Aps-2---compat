@@ -1,0 +1,7 @@
+C:\Users\M9\Downloads\Aps visual\Aps visual\bin\Release\Aps visual.exe
+C:\Users\M9\Downloads\Aps visual\Aps visual\bin\Release\Aps visual.pdb
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Release\Aps_visual.Form1.resources
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Release\Aps_visual.Properties.Resources.resources
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Release\Aps visual.csproj.GenerateResource.Cache
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Release\Aps visual.exe
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Release\Aps visual.pdb

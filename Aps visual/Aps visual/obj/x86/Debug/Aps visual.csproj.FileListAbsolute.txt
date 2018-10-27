@@ -1,0 +1,7 @@
+C:\Users\M9\Downloads\Aps visual\Aps visual\bin\Debug\Aps visual.exe
+C:\Users\M9\Downloads\Aps visual\Aps visual\bin\Debug\Aps visual.pdb
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Debug\Aps_visual.Form1.resources
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Debug\Aps_visual.Properties.Resources.resources
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Debug\Aps visual.csproj.GenerateResource.Cache
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Debug\Aps visual.exe
+C:\Users\M9\Downloads\Aps visual\Aps visual\obj\x86\Debug\Aps visual.pdb
